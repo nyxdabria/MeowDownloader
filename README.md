@@ -87,8 +87,6 @@ To deploy MeowDownloader to a production environment:
 
 4. Ensure that your server is configured to run the application using a process manager like PM2 or systemd.
 
-For detailed deployment instructions, please refer to the [Deployment Guide](./docs/deployment.md).
-
 ## Contributing
 
 We welcome contributions to MeowDownloader! If you'd like to contribute, please follow these steps:
@@ -98,8 +96,6 @@ We welcome contributions to MeowDownloader! If you'd like to contribute, please 
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
-
-Please read our [Contributing Guidelines](./CONTRIBUTING.md) for more information.
 
 ## License
 
