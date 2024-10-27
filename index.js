@@ -5,7 +5,7 @@ const { execFile } = require("child_process");
 const express = require("express");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 
 // Serve static files
 app.use(express.static(path.join(__dirname, "public")));
